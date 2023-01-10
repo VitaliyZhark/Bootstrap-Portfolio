@@ -16,7 +16,7 @@
 <p>The primary goal for this project was to create Bootstrap portfolio of work can showcase my skills and talents to employers looking to fill a part-time or full-time position. The secondary goal was in this Challenge to set yourself up for future success by applying the core skills we've recently learned: HTML, CSS, GitLab, GitHub Pages, and Bootstrap.</p>
 
 <h2 id="Acceptance Criteria">Acceptance Criteria</h2>
-<text>Here are the critical requirements necessary to develop a bootstrap portfolio that satisfies a typical hiring manager’s needs:</text>
+<text>Here are the critical requirements necessary to develop a bootstrap portfolio needs:</text>
 <ul>
   <li>Website created with bootstrap</li>
   <li>Website include "hero section", "jumbotron", "portfolio grid", "hover links", "skills section", "about", "footer"</li>

@@ -38,7 +38,7 @@ website create with bootstrap
 
 <h2 id="Preview">Preview</h2>
 <p>The following animation shows the web application's appearance and functionality:</p>
-<img src="https://github.com/VitaliyZhark/portfoliopage/blob/main/images/01-css-challenge-demo.gif">
+<img src="https://github.com/VitaliyZhark/Bootstrap-Portfolio/blob/main/images/Bootstrap Portfolio Website-min.png">
 <p>Feel free to use my own colors and images.</p>
 
 <h2 id="Contributing">Contributing</h2>

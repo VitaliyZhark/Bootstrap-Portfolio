@@ -32,7 +32,7 @@
 </ul>
 
 <h2 id="Preview">Preview</h2>
-<p>The following animation shows the web application's appearance and functionality:</p>
+<p>The following image shows the web application's appearance and functionality:</p>
 <img width="300px" height="auto" src="https://github.com/VitaliyZhark/Bootstrap-Portfolio/blob/main/images/Bootstrap Portfolio Website-min.png">
 <p>Feel free to use my own colors and images.</p>
 

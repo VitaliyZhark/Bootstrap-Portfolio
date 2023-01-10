@@ -24,9 +24,7 @@ website create with bootstrap
   <li>Website created with bootstrap</li>
   <li>Website include "hero section", "jumbotron", "portfolio grid", "hover links", "skills section", "about", "footer"</li>
   <li>When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you</li>
-  <li>When viewing the section about your work then the section contains titled images of your applications</li>
-  <li>When presented with the your first application then that application's image should be larger in size than the others</li>
-  <li>When images of the applications are clicked then the user is taken to that deployed application</li>
+  <li>When viewing the sections about your work then the section contains titled images of your applications</li>
   <li>When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport</li>
 </ul>
 

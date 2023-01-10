@@ -1,8 +1,7 @@
 # Bootstrap-Portfolio
-website create with bootstrap
 
 <br>
-<h1><a href="https://vitaliyzhark.github.io/Bootstrap-Portfolio/"> My website - portfolio page.</a></h1>
+<h1><a href="https://vitaliyzhark.github.io/Bootstrap-Portfolio/"> Bootstrap - portfolio website.</a></h1>
 <br>
 <h2>Table of Contents</h2>
 

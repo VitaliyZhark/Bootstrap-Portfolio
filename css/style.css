@@ -72,7 +72,6 @@ li a:hover {
 @media (max-width: 1028px) {
     .nav {
         justify-content: center;
-        
     }
     .sosmed-horizontal {
         display: none;
@@ -83,6 +82,7 @@ li a:hover {
     height: 80px;
     background-color: #1D2127;
     color: white;
+    position: initial;
 }
 
 @media (max-width: 1028px) {
@@ -309,7 +309,7 @@ li a:hover {
     }
     .animabody {
         height: auto;
-        weight: 100vw;
+        width: 100vw;
     }
 }
 

@@ -44,5 +44,5 @@
 </ul>
 
 <h2 id="License">License</h2>
-<p> MIT &copy; 2022 <a href="https://github.com/VitaliyZhark/">Vitaliy Zharkovskiy</a></p>
+<p> MIT &copy; 2023 <a href="https://github.com/VitaliyZhark/">Vitaliy Zharkovskiy</a></p>
 
